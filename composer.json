@@ -1,0 +1,16 @@
+{
+    "name": "10972935/email",
+    "autoload": {
+        "psr-4": {
+            "10972935\\Email\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sophie"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    }
+}
